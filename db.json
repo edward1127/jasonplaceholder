@@ -1,11 +1,24 @@
-{
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+{ 
+  "id": "id",
+  "image": "image",
+  "first_name": "first_name",
+  "middle_name": "middle_name",
+  "last_name": "liu",
+  "suffix": "mr",
+  "email": "edward@hotmail.com",
+  "user_name": "username",
+  "phone": "phone",
+  "extention": "extention",
+  "mobile": "mobile",
+  "street": "street",
+  "city": "city",
+  "state": "state",
+  "zip_code": "zip_code",
+  "country": "usa",
+  "company_name": "company_name",
+  "title": "title",
+  "department": "department",
+  "division": "division",
+  "employee_number": "employee_number",
+  "user": "user"
+}
